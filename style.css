@@ -1,0 +1,13 @@
+body {
+   background-color: black;
+margin: 0;
+    h1,h2,h3 {color: rgb(0, 0, 0);}
+  
+  h1,h2,h3,h4{
+    background-color: rgb(146, 204, 255);
+display: flex;
+    justify-content:center;
+  }
+  
+  
+}
